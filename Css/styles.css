@@ -1,0 +1,118 @@
+
+body {
+  margin: 0;
+  text-align: center;
+font-family: 'Potta One', cursive;
+     }
+h1 {
+  margin: 0 auto 0 auto;
+  padding-top: 50px;
+  font-family: 'Potta One', cursive;
+  font-size: 5.625rem;
+  color: #3282b8;
+  line-height: 1;
+}
+h2 {
+font-family: 'Potta One', cursive;
+  font-size: 2.5rem;
+  color: #3282b8;
+  font-weight: normal;
+}
+
+h3 {
+font-family: 'Potta One', cursive;
+  color: #12cad6;
+}
+span {
+  color: #e7305b;
+}
+
+a {
+  color: #3282b8;
+  font-family: 'Potta One', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #E4F9F5;
+}
+
+p {
+  color: #40514E;
+  line-height: 2;
+}
+hr {
+  border: dotted;
+  color: #66BFBF;
+  border-bottom: none;
+  border-width: 6PX;
+  width: 4%;
+  margin: 100px auto;
+}
+/*-----class selector-----*/
+.top-container {
+  background-color: #E4F9F5;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 60px auto 40px;
+}
+
+.copyright-message {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+/*--------- Images---------  */
+.prog-img {
+  width: 15%;
+  height: 15%;
+}
+
+.code-img {
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.chess-img {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.btn{
+  background-color: #66BFBF;
+  border-radius: 100px;
+  padding: 20px 40px;
+  color: White;
+
+}
+.btn:hover{
+  background-color: #EAF6F6;
+  color: #777;
+}
